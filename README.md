@@ -1,5 +1,7 @@
 # Fancy Counter
 
+[Preview Website](https://musel25.github.io/fancy-counter/)
+
 A visually appealing counter application built with React and Vite. This project was created following the tutorial from [ByteGrad](https://bytegrad.com/).
 
 ## Features
